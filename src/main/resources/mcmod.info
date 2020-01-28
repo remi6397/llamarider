@@ -1,0 +1,16 @@
+[
+{
+  "modid": "llamarider",
+  "name": "LlamaRider",
+  "description": "Let's ride Llamas in Minecraft!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["remi6397"],
+  "credits": "To the Great Architect of the Universe, for creation of marvelous fluffy creatures called Llamas.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
